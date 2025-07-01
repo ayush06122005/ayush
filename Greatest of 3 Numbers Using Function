@@ -1,0 +1,4 @@
+def greatest(a, b, c):
+    return max(a, b, c)
+
+print("Greatest is:", greatest(10, 20, 15))
